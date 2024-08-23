@@ -1,0 +1,9 @@
+[package]
+name = "file_frequencies"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parsr = "0.6.1"
+roped = "0.8.2"
+dirs = "5.0.1"
